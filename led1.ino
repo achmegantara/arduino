@@ -1,3 +1,4 @@
+//pin yang digunakan
 int pinLED = 12;
 
 void setup() {
